@@ -1,1 +1,1 @@
-name = mickey mouse
+name = gray
